@@ -1,5 +1,5 @@
 class ToAppInvitationMailer < ApplicationMailer
-    default from: 'gremmomateusz@gmail.com'
+    default from: 'matigrzegor@gmail.com'
  
     def to_app_invitation_email
         @athlete_email = params[:athlete_email]

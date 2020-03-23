@@ -13,7 +13,7 @@ module Marketplace
             
             @data_hash = {
                 good_database_model: 'tile',
-                good_creator: 'Gremmo',
+                good_creator: 'SportApp',
                 good_status: 'initial',
                 good_content: good_content
             }

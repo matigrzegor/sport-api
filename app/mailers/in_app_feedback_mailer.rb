@@ -1,5 +1,5 @@
 class InAppFeedbackMailer < ApplicationMailer
-    default from: 'gremmomateusz@gmail.com'
+    default from: 'matigrzegor@gmail.com'
  
     def in_app_feedback_email
         @recipient_email = params[:recipient_email]

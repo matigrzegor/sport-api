@@ -38,8 +38,8 @@ Rails.application.configure do
   # config.action_cable.allowed_request_origins = [ 'http://example.com', /http:\/\/example.*/ ]
 
   # web socket
-  config.web_socket_server_url = "wss://gremmo-one.herokuapp.com/cable"
-  config.action_cable.allowed_request_origins = ['https://www.app.gremmosport.com', 'http://localhost:4200']
+  config.web_socket_server_url = "wss://cable"
+  config.action_cable.allowed_request_origins = ['http://localhost:4200']
 
   # Force all access to the app over SSL, use Strict-Transport-Security, and use secure cookies.
   # config.force_ssl = true
@@ -56,7 +56,7 @@ Rails.application.configure do
 
   # Use a real queuing backend for Active Job (and separate queues per environment)
   # config.active_job.queue_adapter     = :resque
-  # config.active_job.queue_name_prefix = "GremoTestOne_#{Rails.env}"
+  # config.active_job.queue_name_prefix = "#{Rails.env}"
 
   config.action_mailer.perform_caching = false
 
