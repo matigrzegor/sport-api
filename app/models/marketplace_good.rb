@@ -1,0 +1,3 @@
+class MarketplaceGood < ApplicationRecord
+end
+
