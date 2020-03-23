@@ -15,3 +15,12 @@ The API and the SPA together create sport app.
 - postgresql
 - auth0
 - stripe
+
+## Link to app
+
+https://serene-kare-990ab9.netlify.com/
+
+## Test account for the application: 
+
+Email: testsportapptest@gmail.com 
+Login: TestApp1!
