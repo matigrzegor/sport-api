@@ -18,7 +18,7 @@ This rails JSON API is meant to serve the angular 7 SPA client: https://github.c
 
 ## Link to app
 
-https://serene-kare-990ab9.netlify.com/
+https://serene-kare-990ab9.netlify.app/
 
 ## Test account for the application: 
 
