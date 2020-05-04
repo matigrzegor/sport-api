@@ -1,12 +1,12 @@
 # Sport App
 ### Application for coaching athletes
 
-![Logo](titlepic.png)
+![Logo](work_1.png)
 
 ## General Info
 
 Application to create training and nutrition plans. Inviting athletes to groups. Analysis of data collected from training.
-This rails API is meant to serve the angular 7 SPA client: https://github.com/michalgrzegor/sport-app.
+This rails JSON API is meant to serve the angular 7 SPA client: https://github.com/michalgrzegor/sport-app.
 
 ## Technologies
 
