@@ -5,8 +5,15 @@
 
 ## General Info
 
-Application to create training and nutrition plans. Inviting athletes to groups. Analysis of data collected from training.
-This rails JSON API is meant to serve the angular 7 SPA client: https://github.com/michalgrzegor/sport-app.
+Application to create training and nutrition plans. You can invite your athletes and send them plans. Analysis of data collected from training.  
+  
+This rails JSON API is meant to serve this [angular 7 SPA client](https://github.com/michalgrzegor/sport-app).  
+  
+Link to app: [app](https://serene-kare-990ab9.netlify.app/)
+  
+Credentials for test account:
+- email: **testsportapptest@gmail.com**
+- password: **TestApp1!**
 
 ## Technologies
 
@@ -15,12 +22,3 @@ This rails JSON API is meant to serve the angular 7 SPA client: https://github.c
 - postgresql
 - auth0
 - stripe
-
-## Link to app
-
-https://serene-kare-990ab9.netlify.app/
-
-## Test account for the application: 
-
-Email: testsportapptest@gmail.com 
-Login: TestApp1!
