@@ -9,7 +9,9 @@ Application to create training and nutrition plans. You can invite your athletes
   
 This **rails JSON API** is meant to serve this [angular 7 SPA client](https://github.com/michalgrzegor/sport-app).  
   
-Authentication and Authorization are implemented using **Auth0**.
+Authentication and Authorization are implemented using **Auth0**.  
+
+Test subscriptions are implemented using Stripe.  
   
 Link to app: [app](https://serene-kare-990ab9.netlify.app/)
   
