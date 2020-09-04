@@ -11,7 +11,7 @@ This **rails JSON API** is meant to serve this [angular 7 SPA client](https://gi
   
 Authentication and Authorization are implemented using **Auth0**.  
 
-Test subscriptions are implemented using Stripe.  
+Test subscriptions are implemented using **Stripe**.  
   
 Link to app: [app](https://serene-kare-990ab9.netlify.app/)
   
